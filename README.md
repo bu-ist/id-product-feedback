@@ -5,18 +5,16 @@ In this repository, you can find the [official Interactive Design product feedba
 
 | **Feedback Category** | **About the Product** 	|
 |---	|---	|
-| 🖥️ [Responsive Framework](https://github.com/bu-ist/id-product-feedback/discussions/categories/responsive-framework-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/responsive-framework/) |
-| 🎨 [Responsive Foundation](https://github.com/bu-ist/id-product-feedback/discussions/categories/responsive-foundation-feedback) 	| [Repository](https://github.com/bu-ist/responsive-foundation/) and [documentation](https://bu-ist.github.io/responsive-foundation/) |
 | 📷 [BU Banners](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-banners-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-banners/) and [documentation](https://id-demos.cms-devl.bu.edu/bu-banners/image-sizes-guidelines-templates/)	|
-| 🧩 [BU Blocks](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-blocks-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-blocks/) and [documentation](https://github.com/bu-ist/bu-blocks/wiki)	|
-| ✅ [BU Filtering](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-filtering-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-filtering/) and [documentation](https://github.com/bu-ist/bu-filtering/tree/develop/docs)	|
+| 💥 [BU Blocks](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-blocks-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-blocks/) and [documentation](https://github.com/bu-ist/bu-blocks/wiki)	|
+| ⚡ [BU Filtering](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-filtering-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-filtering/) and [documentation](https://github.com/bu-ist/bu-filtering/tree/develop/docs)	|
 | 🚀 [BU Landing Pages](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-landing-pages-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-landing-pages/) and [documentation](https://www.bu.edu/tech/services/cccs/websites/www/wordpress/how-to/bu-landing-pages/)	|
 | 📰 [BU PrePress](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-prepress-feedback) | [Demo site](https://id-demos.cms-devl.bu.edu/bu-prepress/) and [documentation](https://github.com/bu-ist/bu-prepress/wiki) 	|
-| 👤 [BU Profiles](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-profiles-feedback) | [Demo site](https://id-demos.cms-devl.bu.edu/bu-profiles/) and [documentation](https://www.bu.edu/tech/services/cccs/websites/www/wordpress/how-to/profiles/) 	|
 | 🎓 [BU Program Pages](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-program-pages-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-programs/degree-program/sculpture-program/) and [documentation](https://github.com/bu-ist/bu-program-pages)	|
-| 🗒️ [WPDocs](https://github.com/bu-ist/id-product-feedback/discussions/categories/wpdocs-feedback) 	| [Baseline site](https://wpdocs.bu.edu/)	|
 | ✨ [General Feedback](https://github.com/bu-ist/id-product-feedback/discussions/categories/general-feedback) 	| [Interactive Design website site](https://www.bu.edu/interactive-design/)|
-| 🔥 [Bugs](https://github.com/bu-ist/id-product-feedback/discussions/categories/bugs) | [ServiceNow](https://www.bu.edu/tech/contact/)|
+| 🖥️ [Responsive Framework](https://github.com/bu-ist/id-product-feedback/discussions/categories/responsive-framework-feedback)	| [Demo site](https://id-demos.cms-devl.bu.edu/responsive-framework/) |
+
+**Please note:** GitHub discussions is currently limited to 9 categories. The final category is dedicated to announcements.
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the GitHub product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
