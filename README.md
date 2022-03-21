@@ -1,4 +1,4 @@
-# ID Product feedback discussions
+# ID Product Feedback & Requests
 This repository is lovingly modeled after [GitHub's feedback repository](https://github.com/github/feedback).
 
 In this repository, you can find the [official Interactive Design product feedback discussions](https://github.com/bu-ist/id-product-feedback/discussions) for the following product areas, as well as an overall category for general product feedback:
@@ -16,6 +16,7 @@ In this repository, you can find the [official Interactive Design product feedba
 | 🎓 [BU Program Pages](https://github.com/bu-ist/id-product-feedback/discussions/categories/bu-program-pages-feedback) 	| [Demo site](https://id-demos.cms-devl.bu.edu/bu-programs/degree-program/sculpture-program/) and [documentation](https://github.com/bu-ist/bu-program-pages)	|
 | 🗒️ [WPDocs](https://github.com/bu-ist/id-product-feedback/discussions/categories/wpdocs-feedback) 	| [Baseline site](https://wpdocs.bu.edu/)	|
 | ✨ [General Feedback](https://github.com/bu-ist/id-product-feedback/discussions/categories/general-feedback) 	| [Interactive Design website site](https://www.bu.edu/interactive-design/)|
+| 🔥 [Bugs](https://github.com/bu-ist/id-product-feedback/discussions/categories/bugs) | [ServiceNow](https://www.bu.edu/tech/contact/)|
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the GitHub product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
